@@ -27,5 +27,4 @@ public class AddSpelerActivity extends AppCompatActivity {
             }
         });
     }
-
 }

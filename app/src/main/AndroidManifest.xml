@@ -35,6 +35,10 @@
             android:name=".activity.AddSpelerActivity"
             android:label="@string/title_activity_add_speler"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity.TabActivity"
+            android:label="@string/title_activity_tab"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

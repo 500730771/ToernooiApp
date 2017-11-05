@@ -33,9 +33,7 @@ public class MainActivity extends AppCompatActivity
 {
     private RecyclerView list;
     private ToernooiAdapter mToernooiAdapter;
-    private SpelerAdapter mSpelerAdapter;
     private List<Toernooi> mToernooien;
-    private List<Speler> mSpelers;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
