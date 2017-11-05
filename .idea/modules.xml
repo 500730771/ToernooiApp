@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GamesBackLog.iml" filepath="$PROJECT_DIR$/GamesBackLog.iml" />
+      <module fileurl="file://C:\Users\Melanie\Documents\GitHub\GitHub\ToernooiApp\GamesBackLog.iml" filepath="C:\Users\Melanie\Documents\GitHub\GitHub\ToernooiApp\GamesBackLog.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToernooiApp.iml" filepath="$PROJECT_DIR$/ToernooiApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gamesbacklog-master.iml" filepath="$PROJECT_DIR$/gamesbacklog-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gamesbacklogmanager.iml" filepath="$PROJECT_DIR$/gamesbacklogmanager.iml" />
+      <module fileurl="file://C:\Users\Melanie\Documents\GitHub\GitHub\ToernooiApp\gamesbacklog-master.iml" filepath="C:\Users\Melanie\Documents\GitHub\GitHub\ToernooiApp\gamesbacklog-master.iml" />
+      <module fileurl="file://C:\Users\Melanie\Documents\GitHub\GitHub\ToernooiApp\gamesbacklogmanager.iml" filepath="C:\Users\Melanie\Documents\GitHub\GitHub\ToernooiApp\gamesbacklogmanager.iml" />
     </modules>
   </component>
 </project>
